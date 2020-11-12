@@ -21,7 +21,10 @@ namespace StorageMaster
             this.Price = price;
             this.Weight = weight;
             }
-        private void priceValidation(double price) {if (price<0) throw new InvalidOperationException("price can not be negetive"); }
+        private void priceValidation(double price)
+        {
+            if (price<0) throw new InvalidOperationException("price can not be negetive"); 
+        }
 
 
 

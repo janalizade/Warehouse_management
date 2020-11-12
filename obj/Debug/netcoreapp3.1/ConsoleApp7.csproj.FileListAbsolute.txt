@@ -11,3 +11,16 @@ C:\Users\avest\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\Cons
 C:\Users\avest\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.pdb
 C:\Users\avest\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.genruntimeconfig.cache
 C:\Users\avest\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.csprojAssemblyReference.cache
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.AssemblyInfo.cs
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.csprojAssemblyReference.cache
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.exe
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.deps.json
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.runtimeconfig.json
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.runtimeconfig.dev.json
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.dll
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp3.1\ConsoleApp7.pdb
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.dll
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.pdb
+C:\Maryam\C#Task\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp3.1\ConsoleApp7.genruntimeconfig.cache

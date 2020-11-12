@@ -11,6 +11,8 @@ namespace StorageMaster
         {
 
             Program p = new Program();
+            p.Storage_addProduct();
+            //p.Storage_Master();
            // p.Vehicle_IsFull_Test();
 
            // p.Vehicle_Truck_Trunck_LoadProduct_Test();
@@ -25,7 +27,31 @@ namespace StorageMaster
             // p.Vehicle_Truck_Trunck_EMPTY_Test();
 
         }
+        public void Storage_addProduct()
+        {
+            string type; double price;
+           type = Console.ReadLine();
+           price =Convert.ToDouble(Console.ReadLine());
+           StoragMaster sm = new StoragMaster();
+           sm.AddProduct(type, price);
+        }
+       
+        public void Storage_SendVehicleTo_Test()
+        {
+            Vehicle truck = new Truck();
+            Storage warehouse= new Warehouse();
+            warehouse.SendVehicleTo(0,warehouse);
+            warehouse.SendVehicleTo(1, warehouse);
+        }
 
+        public void Storage_GetVehicle_Test()
+        {
+            
+            Vehicle truck = new Truck();
+            Storage warehouse = new Warehouse();
+            warehouse.GetVehicle(2);
+
+        }
 
         public void Vehicle_IsFull_Test()
         {
@@ -56,7 +82,7 @@ namespace StorageMaster
             }
             catch (InvalidOperationException e)
             {
-                if (e.Message == "No products left in vehicle!") ;
+                if (e.Message == "No products left in vehicle!") 
                 {
                     Console.WriteLine("No products left in vehicle!");
                 }
