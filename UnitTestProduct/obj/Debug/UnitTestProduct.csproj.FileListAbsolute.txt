@@ -1,0 +1,13 @@
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\bin\Debug\UnitTestProduct.dll
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\bin\Debug\UnitTestProduct.pdb
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\obj\Debug\UnitTestProduct.csproj.CoreCompileInputs.cache
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\obj\Debug\UnitTestProduct.csproj.CopyComplete
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\obj\Debug\UnitTestProduct.dll
+C:\Maryam\C#Task\ConsoleApp7\UnitTestProduct\obj\Debug\UnitTestProduct.pdb

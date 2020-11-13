@@ -15,13 +15,16 @@ namespace StorageMaster
             }
         }
         public  double Weight { set; get; }
-        
+        //I use validation here for encapsulation
         public Product(double price, double weight){
             this.priceValidation(price);
             this.Price = price;
             this.Weight = weight;
             }
-        private void priceValidation(double price) {if (price<0) throw new InvalidOperationException("price can not be negetive"); }
+        private void priceValidation(double price)
+        {
+            if (price<0) throw new InvalidOperationException("price can not be negetive"); 
+        }
 
 
 
